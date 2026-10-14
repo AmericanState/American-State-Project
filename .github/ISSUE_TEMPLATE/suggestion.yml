@@ -1,0 +1,22 @@
+name: Suggestion
+description: Suggest an Idea
+labels: ['enhancement']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Join our Discord: https://discord.gg/nTFrb4jjN7
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggestion
+      description: A clear and concise description of what you want to be implemented.
+      placeholder: |
+        Some examples:
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: If you have any other context about the problem such as screenshots or videos, add them here.

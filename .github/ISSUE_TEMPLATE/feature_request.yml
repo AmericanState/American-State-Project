@@ -1,5 +1,5 @@
 name: Feature Request
-description: Suggest an Idea
+description: Update or Change
 labels: ['enhancement']
 body:
   - type: markdown
