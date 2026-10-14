@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Join our Discord: https://discord.gg/JJXgjd9F6b
+        Join our Discord: https://discord.gg/nTFrb4jjN7
   - type: input
     id: summary
     attributes:
